@@ -5,8 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: madavi/jenkins
-  tag: 1
+  repository: madavi/spring
+  tag: latest
   pullPolicy: IfNotPresent
 
 nameOverride: ""
