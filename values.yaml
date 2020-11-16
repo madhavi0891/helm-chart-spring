@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: madavi/spring
+  repository: madavi/pod
   tag: latest
   pullPolicy: IfNotPresent
 
