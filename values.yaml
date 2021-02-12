@@ -5,8 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: madavi/pod
-  tag: 6
+  repository: madavi/docker
+  tag: 5
   pullPolicy: IfNotPresent
 
 nameOverride: ""
